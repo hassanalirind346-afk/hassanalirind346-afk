@@ -12,9 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=hassanalirind346-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hassanalirind346-afk&theme=tokyonight&no-frame=true&row=1" />
-</p>
+
 
 ## 👨‍💻 About Me
 
