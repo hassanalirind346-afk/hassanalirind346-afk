@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanalirind346-afk&label=Profile%20views&color=0e75b6&style=flat" alt="hassanalirind346-afk" /> </p>
 
