@@ -1,9 +1,17 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7F00FF&height=250&section=header&text=Hassan%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60" />
+</p>
+
+<!-- Typing Animation -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Hassan+Ali;Full+Stack+Web+Developer;Frontend+%2B+Backend+Developer;Learning+New+Technologies" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
+<h3 align="center">🚀 Full Stack Web Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanalirind346-afk&label=Profile%20views&color=0e75b6&style=flat" alt="hassanalirind346-afk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanalirind346-afk" alt="hassanalirind346-afk" /></a> </p>
 
 - 🔭 I’m currently working on [Baloch Restaurant](https://hassanalirind346-afk.github.io/project2/)
 
