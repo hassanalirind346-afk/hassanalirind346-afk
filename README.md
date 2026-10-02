@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7F00FF&height=250&section=header&text=Hassan%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hassanalirind346-afk/Hassan-/main/bccbcee17707220d74c9fe99594b73f7%20(1)%20(2).webp" width="300" alt="Hassan Ali" />
-</p>
+
 
 <!-- Typing Animation -->
 <p align="center">
